@@ -40,9 +40,5 @@ Press **'q'** to quit the application.
 
 ---
 
-Enjoy real-time object detection with YOLOv8!
 
-```
 
-Would you like me to generate the actual `read.md` file for you now?
-```
